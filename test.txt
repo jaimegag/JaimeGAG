@@ -3,10 +3,6 @@ First
 Second
 Thrird Third Third ... hahaha
 The Fourth
-<<<<<<< HEAD
 hohoho Fifth
-=======
-Fifth
->>>>>>> sidebranch
 and Sixth!
 Let's see now
